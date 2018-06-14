@@ -11,3 +11,5 @@ http://www.prem-melville.com/publications/equitant-kdd08.pdf <br/>
 http://blog.ekaplus.com/blog/a-machine-learning-approach-for-cash-flow-prediction <br>
 https://dspace.mit.edu/bitstream/handle/1721.1/99584/925473704-MIT.pdf?sequence=1  <br>
 
+hello world example : https://machinelearningmastery.com/machine-learning-in-python-step-by-step/ <br>
+
