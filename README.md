@@ -13,4 +13,6 @@ https://dspace.mit.edu/bitstream/handle/1721.1/99584/925473704-MIT.pdf?sequence=
 
 hello world example : https://machinelearningmastery.com/machine-learning-in-python-step-by-step/ <br>
                      : https://machinelearningmastery.com/make-predictions-scikit-learn/ <br>
+                     http://www.awesomestats.in/python-regression-advertisement/
+                     
 
